@@ -1,0 +1,9 @@
+Package: com.nguoidung.dualbt
+Name: DualBT
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Dual Bluetooth audio (giong Samsung) cho roothide
+Maintainer: nguoidung
+Author: nguoidung
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
